@@ -1,4 +1,4 @@
-# PolyU-COMP5422-Search-Screenshot-in-Video
+# Mini-size Project: Search Screenshot in Video
 Application to demonstrate basic elements in a Content-based Image Retrieval (CBIR) System. Written in Python.
 
 ## How to use?
